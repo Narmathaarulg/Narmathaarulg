@@ -45,16 +45,3 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Narmathaarulg&theme=tokyonight&no-frame=true&row=1" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Narmathaarulg&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">⭐ <i>If you like my work, consider starring my repos!</i> ⭐</p>
