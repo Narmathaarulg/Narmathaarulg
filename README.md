@@ -13,7 +13,7 @@
 
 ---
 
-## 💻 $ whoami
+## 💻 About Me
 
 ```bash
 $ whoami
@@ -32,7 +32,7 @@ $ cat status.txt
 
 ---
 
-## 🛠️ $ cat skills.txt
+## 🛠️ Skills
 
 **Languages**
 
@@ -77,7 +77,7 @@ $ cat status.txt
 
 ---
 
-## 🏆 $ cat achievements.txt
+## 🏆 Achievements
 
 - 🥇 **1st Prize**, Solo Project Expo (Final Year Engineer's Day)
 - 🥇 **1st Prize**, Team Project Expo (3rd Year Engineer's Day)
@@ -87,7 +87,7 @@ $ cat status.txt
 
 ---
 
-## 📬 $ contact --me
+## 📬 Contact
 
 Open to opportunities and collaborations. Reach me at **narmathaarulg@gmail.com** or on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN).
 
