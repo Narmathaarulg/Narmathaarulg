@@ -1,55 +1,83 @@
-<h1 align="center">Hi, I'm Narmatha A 👋</h1>
-
-<p align="center">
-  <b>Python Developer | Backend & Full-Stack Engineering</b><br/>
-  I build RESTful APIs and full-stack Python apps, and turn data into insights with ML & NLP.
-</p>
+<h1 align="center">Hi 👋, I'm Narmatha A</h1>
+<h3 align="center">Python Developer | Backend & Full-Stack Engineering</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=550&lines=Python+Developer+%F0%9F%90%8D;Flask+%7C+Django+%7C+FastAPI+%7C+React;Machine+Learning+%26+NLP+Explorer+%F0%9F%A4%96;B.E.+CSE+Graduate+%7C+Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:narmathaarulg@gmail.com"><img src="https://img.shields.io/badge/Email-narmathaarulg%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download_PDF-6A5ACD?style=for-the-badge" /></a>
+  <a href="mailto:narmathaarulg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-PDF-6A5ACD?style=for-the-badge"/></a>
 </p>
 
 ---
 
-### 🚀 What I'm up to
+## 💻 About Me
 
-- 🎓 B.E. Computer Science & Engineering (2026), **CGPA 8.25**, Bharathiyar Institute of Engineering for Women
-- 💼 Open to **Python Developer / Backend / Full-Stack** roles
-- 🤖 Building real-world AI solutions with Flask, FastAPI, React, NLP and Machine Learning
-- 🌱 Currently deepening my skills in **Deep Learning & LLMs**
-- 📍 Based in Chennai, Tamil Nadu, India
+```bash
+$ whoami
+> Narmatha A, Python Developer from Chennai, Tamil Nadu
 
-### 📊 By the numbers
+$ cat about.txt
+> B.E. Computer Science & Engineering (2026)
+> Bharathiyar Institute of Engineering for Women
+> I build RESTful APIs and full-stack Python applications,
+> and I enjoy turning data into meaningful insights with ML & NLP.
+> Currently deepening my skills in Deep Learning & LLMs
 
-| 🎓 CGPA | 🥇 Project Expo wins | 🏅 Academic rank | 📜 Certifications |
-| :---: | :---: | :---: | :---: |
-| 8.25 | 2 (Team and Solo) | 2nd (1st to 3rd year) | 2 |
+$ cat status.txt
+> Open to Python Developer / Backend / Full-Stack roles
+```
 
-### 💻 I code in
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,js,flask,django,fastapi,react,html,css" />
-</p>
+## 🛠️ Skills
 
-### 🗄️ Databases & AI / ML
+**Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,pandas,numpy,sklearn,opencv" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🛠️ Tools I use
+**Backend & Frameworks**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🏆 Achievements & Certifications
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**AI / ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=spacy&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🏆 Achievements
 
 - 🥇 **1st Prize**, Solo Project Expo (Final Year Engineer's Day)
 - 🥇 **1st Prize**, Team Project Expo (3rd Year Engineer's Day)
@@ -57,18 +85,10 @@
 - 📜 **Python Foundation**, Infosys Springboard
 - 📜 **Communication**, TCS iON
 
-### 📈 GitHub stats
+---
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📬 Contact
 
-### 🤝 Let's connect
-
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:narmathaarulg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+Open to opportunities and collaborations. Reach me at **narmathaarulg@gmail.com** or on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN).
 
 <p align="center"><i>"Turning data into decisions, one line of code at a time."</i></p>
