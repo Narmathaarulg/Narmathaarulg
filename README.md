@@ -15,20 +15,12 @@
 
 ## 💻 About Me
 
-```bash
-$ whoami
-> Narmatha A, Python Developer from Chennai, Tamil Nadu
-
-$ cat about.txt
-> B.E. Computer Science & Engineering (2026)
-> Bharathiyar Institute of Engineering for Women
-> I build RESTful APIs and full-stack Python applications,
-> and I enjoy turning data into meaningful insights with ML & NLP.
-> Currently deepening my skills in Deep Learning & LLMs
-
-$ cat status.txt
-> Open to Python Developer / Backend / Full-Stack roles
-```
+- 👩‍💻 Python Developer from **Chennai, Tamil Nadu**
+- 🎓 B.E. Computer Science & Engineering (2026), Bharathiyar Institute of Engineering for Women
+- 🛠️ I build RESTful APIs and full-stack Python applications
+- 🤖 I enjoy turning data into meaningful insights with ML & NLP
+- 🌱 Currently deepening my skills in **Deep Learning & LLMs**
+- 💼 Open to **Python Developer / Backend / Full-Stack** roles
 
 ---
 
