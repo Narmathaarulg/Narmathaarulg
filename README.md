@@ -15,8 +15,7 @@
 
 ## 💻 About Me
 
-- 👩‍💻 Python Developer from **Chennai, Tamil Nadu**
-- 🎓 B.E. Computer Science & Engineering (2026), Bharathiyar Institute of Engineering for Women
+- 👩‍💻 Python Developer to build interactive projects
 - 🛠️ I build RESTful APIs and full-stack Python applications
 - 🤖 I enjoy turning data into meaningful insights with ML & NLP
 - 🌱 Currently deepening my skills in **Deep Learning & LLMs**
@@ -68,19 +67,3 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
-
-## 🏆 Achievements
-
-- 🥇 **1st Prize**, Solo Project Expo (Final Year Engineer's Day)
-- 🥇 **1st Prize**, Team Project Expo (3rd Year Engineer's Day)
-- 🎓 **2nd Rank** in academics (1st to 3rd year)
-- 📜 **Python Foundation**, Infosys Springboard
-- 📜 **Communication**, TCS iON
-
----
-
-## 📬 Contact
-
-Open to opportunities and collaborations. Reach me at **narmathaarulg@gmail.com** or on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN).
-
-<p align="center"><i>"Turning data into decisions, one line of code at a time."</i></p>
